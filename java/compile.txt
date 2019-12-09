@@ -1,0 +1,5 @@
+コンパイル
+javac -encoding UTF-8 ●●.javac
+
+実行
+java ●●
