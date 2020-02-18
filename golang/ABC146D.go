@@ -74,7 +74,7 @@ func main() {
 	}
 }
 
-// readString() 読み込んだ文字列を返す
+// readString() 読み込んだ文字列を数字に変換して返す
 func readInt() int {
 	stdin.Scan()
 	x, err := strconv.Atoi(stdin.Text())
